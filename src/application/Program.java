@@ -15,6 +15,8 @@ public class Program {
 		x = new Triangle();
 		y = new Triangle();
 		
+		System.out.println("Teste-Git");
+		
 		System.out.println("Entre com as medidas do triângulo X: ");
 		x.a = sc.nextDouble();
 		x.b = sc.nextDouble();
